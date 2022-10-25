@@ -1,0 +1,19 @@
+{
+  "name": "solve_me_first",
+  "version": "1.0.0",
+  "description": "hackerrank solve me first",
+  "main": "Solve_me_first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winafsw21/Solve_me_first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winafsw21/Solve_me_first/issues"
+  },
+  "homepage": "https://github.com/Winafsw21/Solve_me_first#readme"
+}
